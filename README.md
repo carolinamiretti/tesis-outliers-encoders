@@ -1,4 +1,4 @@
-# Tesis - Comparación de Autoencoders para Detección de Anomalías
+# Tesis Miretti - Comparación de Autoencoders para Detección de Anomalías
 
 ## Dataset
 Cardiotocography (CTG) - UCI Machine Learning Repository  
